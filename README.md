@@ -1,2 +1,4 @@
 # DSA-Learning-Documentation-
-This repository gives the detailed work on my learnings  in PowerBI.
+This repository gives detailed work on my learnings  in Power BI.
+## Data Cleaning.
+ The columnar data was used for

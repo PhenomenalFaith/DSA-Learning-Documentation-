@@ -26,4 +26,15 @@ Merging: means extracting a column from a table to add to another table. We merg
 
 ## Data Modelling.
 
+This gives an idea of the interconnectivity between the datasets and the tables involved in the model. The cardinality shows the relationship that exists between two tables and can be the following:
+* One-to-many
+* One-to-one 
+* Many-to-one 
+* Many-to-many 
+The visualisation pane consists of different charts that display the data in a particular way. For the SQL file that was brought into the Power Query, a one-to-many relationship was established between each table, and a particular table (Film table) had the primary key and various secondary keys.
+To get the Day, we take the database to the Power Query for editing. Then the film table is duplicated, and every other column, aside from the film ID and release dates, is removed. On the Add column icon, the release date column is already selected, and the option Date is selected. A drop-down list is seen, and the day is selected. 
+
+The Charts can be edited from the motel view under the properties to suit your desired outcome.
+
+
 

@@ -36,7 +36,7 @@ The Charts can be edited from the model view under the properties to suit the de
 
 
 ## Map Data.
-The map data was loaded into power BI. Then the map feature was introduced to the report canvas and the longitude and latitude ensured that the map of Nigeria became visible. When the states was inputted into the Location pane, we were asked to remove the longitude and latitude for the visuals to show. That we did and the map came alive. The population was inserted in the bubble wrap size and the different states had different bubble sizes according to the population they carried. The maps were edited and saved.
+The map data was loaded into Power BI. Then the map feature was introduced to the report canvas, and the longitude and latitude ensured that the map of Nigeria became visible. When the state was inputted into the Location pane, we were asked to remove the longitude and latitude for the visuals to show. That we did, and the map came alive. The population was inserted in the bubble wrap size, and the different states had different bubble sizes according to the population they carried. The maps were edited and saved.
 
 ## HR Data.
 The HR Data was taken to the power query editor and the first rows were used as the headers ,then the columns that were not necessary to the report were taken out. The data set was loaded and the report building began. The card was used to get the Total number of employees, the total number of people that have gone (Attrition count). With that, the number different insights were displayed. 

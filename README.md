@@ -47,4 +47,5 @@ The HR Data was taken to the power query editor and the first rows were used as 
 
 
 
+![Map_page-0002](https://github.com/user-attachments/assets/fc4719f2-61e4-486f-b768-61eb62a60680)
 
